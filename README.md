@@ -29,7 +29,7 @@ L'installation de Debian a été réalisée à l'aide d'une image ISO (mini.iso)
   ```bash
   dpkg -l | wc -l
   ```
-- Une installation légère devrait avoir environ 320 paquets. Résultat obtenu : **1613 paquets**.
+- Une installation légère devrait avoir environ 320 paquets. Résultat obtenu : **352 paquets**.
 
 ### 2.4 Utilisation de l'espace
 - Vérification de l'utilisation de l'espace de la partition racine avec la commande :
