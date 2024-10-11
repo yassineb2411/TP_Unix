@@ -36,7 +36,7 @@ L'installation de Debian a été réalisée à l'aide d'une image ISO (mini.iso)
   ```bash
   df -h
   ```
-- Espace utilisé Résultat obtenu : **1,2 Go**.
+- Espace utilisé : **1,2 Go**.
 
 ### 2.5 Explications des commandes
 - **Locales** : `echo $LANG` pour vérifier la langue.
