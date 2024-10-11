@@ -9,6 +9,7 @@ L'installation de Debian a été réalisée à l'aide d'une image ISO (mini.iso)
   - Difficultés rencontrées lors de la configuration des points de montage et de la taille des partitions.
 - **Installation des paquets de base** : Cela a pris un certain temps et a nécessité la sélection du noyau approprié.
 - **Installation de GRUB** : Configuration du chargeur de démarrage.
+- J'ai eu **du mal avec l'installation**, j'ai même du la refaire plusieurs fois.
 
 ## 2. Post-Installation
 
